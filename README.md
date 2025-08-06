@@ -1,5 +1,3 @@
-# Ali-Ahmed-Shaikh
-
 # Hi there, I'm Ali Ahmed! 👋
 
 🎓 **Web Developer & Student at Mehran University of Engineering and Technology**
